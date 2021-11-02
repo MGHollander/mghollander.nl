@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "The personal website of Marc Hollander.",
   "scripts": {
+    "build": "npm run sass:prod && npm run svg:optimize",
     "clean:css": "rm -rf web/assets/css",
     "clean:svg": "rm -rf web/assets/svg",
     "sass:dev": "npm run clean:css && sass --watch --update --style=expanded src/scss/style.scss:web/assets/css/style.css",
