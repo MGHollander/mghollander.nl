@@ -1,6 +1,6 @@
 
 .container {
-    @include breakpoint {
+    @include breakpoint-small {
         display: flex;
         flex-direction: row-reverse;
     }
@@ -8,7 +8,7 @@
     > * {
         box-sizing: border-box;
 
-        @include breakpoint {
+        @include breakpoint-small {
             width: 50%;
         }
     }
@@ -21,12 +21,24 @@
     background-size: cover;
     background-position-x: center;
 
-    @include breakpoint {
+    @include breakpoint-small {
         height: 100vh;
     }
 }
 
 .container-content {
     padding: 0 1.5rem;
+
+    @include breakpoint-medium {
+        padding: 3rem 4rem;
+    }
+
+    @include breakpoint-large {
+        padding: 6rem 7rem;
+    }
+
+    @include breakpoint-extra-large {
+        padding: 8rem 10rem;
+    }
 }
 
