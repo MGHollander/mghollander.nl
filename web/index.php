@@ -20,11 +20,11 @@
             And I&rsquo;m a self-taught developer from the Netherlands.
         </p>
 
-        <p>
-            <a href="https://github.com/MGHollander/"><img src="assets/img/icon-github.svg" alt="Visit my Github" class="resource-logo"></a>
-            <a href="https://gitlab.com/MGHollander"><img src="assets/img/icon-gitlab-rgb.svg" alt="Visit my GitLab" class="resource-logo"></a>
-            <a href="https://www.linkedin.com/in/mghollander/"><img src="assets/img/icon-linkedin.svg" alt="Visit my LinkedIn" class="resource-logo"></a>
-        </p>
+        <ul class="resources">
+            <li><a href="https://github.com/MGHollander/"><img src="assets/svg/github.svg" alt="Visit my Github" class="resource-logo"></a></li>
+            <li><a href="https://gitlab.com/MGHollander"><img src="assets/svg/gitlab.svg" alt="Visit my GitLab" class="resource-logo"></a></li>
+            <li><a href="https://www.linkedin.com/in/mghollander/"><img src="assets/svg/linked-in.svg" alt="Visit my LinkedIn" class="resource-logo"></a></li>
+        </ul>
     </div>
 </div>
 </body>
