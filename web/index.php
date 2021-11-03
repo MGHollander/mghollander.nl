@@ -6,6 +6,10 @@
     <title>Hi! I'm Marc</title>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Playfair+Display:,300,400,700&display=swap" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Playfair+Display:,300,400,700&display=swap" media="print" onload="this.media='all'" />
     <link rel="stylesheet" href="assets/css/style.css" />
 </head>
