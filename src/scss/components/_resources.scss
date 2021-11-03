@@ -1,3 +1,14 @@
+.resources {
+    display: flex;
+    margin: 3rem 0 1.5rem;
+    padding: 0;
+    font-size: 0;
+
+    > * + * {
+        margin-left: 1rem;
+    }
+}
+
 .resource-logo {
-    width: 50px;
+    height: 2.75rem;
 }
