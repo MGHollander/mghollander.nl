@@ -22,6 +22,10 @@
     &-content {
         padding: 0 1.5rem;
 
+        @include breakpoint-small {
+            padding-top: 2rem;
+        }
+
         @include breakpoint-medium {
             padding: 3rem 4rem;
         }
