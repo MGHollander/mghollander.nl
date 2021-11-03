@@ -7,6 +7,11 @@
     > * + * {
         margin-left: 1rem;
     }
+
+    a:focus,
+    a:focus-visible {
+        outline-offset: 0.5rem;
+    }
 }
 
 .resource-logo {
