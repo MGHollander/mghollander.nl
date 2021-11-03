@@ -11,20 +11,24 @@
 </head>
 <body>
 <div class="container">
-    <div class="container-item container-portrait"></div>
+    <div class="container-item">
+        <div class="portrait"></div>
+    </div>
 
     <div class="container-item container-content">
-        <h1 class="title">Hi! I&rsquo;m Marc</h1>
+        <div class="content">
+            <h1 class="title">Hi! I&rsquo;m Marc</h1>
 
-        <p>
-            And I&rsquo;m a self-taught developer from the Netherlands.
-        </p>
+            <p>
+                And I&rsquo;m a self-taught developer from the Netherlands.
+            </p>
 
-        <ul class="resources">
-            <li><a href="https://github.com/MGHollander/"><img src="assets/svg/github.svg" alt="Visit my Github" class="resource-logo"></a></li>
-            <li><a href="https://gitlab.com/MGHollander"><img src="assets/svg/gitlab.svg" alt="Visit my GitLab" class="resource-logo"></a></li>
-            <li><a href="https://www.linkedin.com/in/mghollander/"><img src="assets/svg/linked-in.svg" alt="Visit my LinkedIn" class="resource-logo"></a></li>
-        </ul>
+            <ul class="resources">
+                <li><a href="https://github.com/MGHollander/"><img src="assets/svg/github.svg" alt="Visit my Github" class="resource-logo"></a></li>
+                <li><a href="https://gitlab.com/MGHollander"><img src="assets/svg/gitlab.svg" alt="Visit my GitLab" class="resource-logo"></a></li>
+                <li><a href="https://www.linkedin.com/in/mghollander/"><img src="assets/svg/linked-in.svg" alt="Visit my LinkedIn" class="resource-logo"></a></li>
+            </ul>
+        </div>
     </div>
 </div>
 </body>
