@@ -31,6 +31,6 @@
     "imagemin-cli": "^7.0.0",
     "imagemin-webp": "^7.0.0",
     "sass": "^1.43.4",
-    "svgo": "^2.8.0"
+    "svgo": "^2.8.2"
   }
 }
