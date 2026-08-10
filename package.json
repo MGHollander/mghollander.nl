@@ -31,7 +31,7 @@
     "imagemin-cli": "^7.0.0",
     "imagemin-webp": "^7.0.0",
     "sass": "^1.43.4",
-    "svgo": "^2.8.2"
+    "svgo": "^2.8.3"
   },
   "overrides": {
     "decompress": "npm:@xhmikosr/decompress@^11.1.3"
