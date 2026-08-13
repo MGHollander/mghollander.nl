@@ -28,8 +28,13 @@
   },
   "homepage": "https://github.com/MGHollander/mghollander.nl#readme",
   "devDependencies": {
+    "imagemin-cli": "^7.0.0",
+    "imagemin-webp": "^7.0.0",
     "sass": "^1.102.0",
     "sharp": "^0.35.3",
     "svgo": "^4.0.2"
+  },
+  "overrides": {
+    "decompress": "npm:@xhmikosr/decompress@^11.1.3"
   }
 }
