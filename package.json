@@ -30,9 +30,9 @@
   "devDependencies": {
     "imagemin-cli": "^7.0.0",
     "imagemin-webp": "^7.0.0",
-    "sass": "^1.102.0",
-    "sharp": "^0.35.3",
-    "svgo": "^4.0.2"
+    "sass": "^1.107.1",
+    "sharp": "^0.35.5",
+    "svgo": "^4.1.0"
   },
   "overrides": {
     "decompress": "npm:@xhmikosr/decompress@^11.1.3"
