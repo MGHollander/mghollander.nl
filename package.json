@@ -35,6 +35,8 @@
     "svgo": "^4.1.0"
   },
   "overrides": {
-    "decompress": "npm:@xhmikosr/decompress@^11.1.3"
+    "decompress": "npm:@xhmikosr/decompress@^11.1.3",
+    "decode-uri-component": "^0.5.1",
+    "fast-xml-parser": "^5.12.1"
   }
 }
